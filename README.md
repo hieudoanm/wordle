@@ -39,6 +39,9 @@ Wordle is a focused project in this monorepo that delivers a practical tool with
 - 💻 [CLI](https://github.com/hieudoanm/wordle/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/wordle/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/wordle/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/wordle/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/wordle/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/wordle/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
