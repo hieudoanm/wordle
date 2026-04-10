@@ -3,16 +3,19 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0soxjqua74oy0.js"
   ],
   "/404": [
-    "static/chunks/09j~7przi1l5e.js"
+    "static/chunks/04jx86g7ac_x0.js"
   ],
   "/500": [
-    "static/chunks/09-5yorqojsk~.js"
+    "static/chunks/0ivtdcjrt8ytn.js"
   ],
   "/_error": [
-    "static/chunks/0e8k4xc7okr0t.js"
+    "static/chunks/0yzahgj2694ms.js"
   ],
   "/app": [
     "static/chunks/0qrfk8qxw_hk_.js"
+  ],
+  "/downloads": [
+    "static/chunks/0iolk9f0rr2m8.js"
   ],
   "/version": [
     "static/chunks/0gx.onaynfj6a.js"
@@ -29,6 +32,7 @@ self.__BUILD_MANIFEST = {
     "/_app",
     "/_error",
     "/app",
+    "/downloads",
     "/version"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
